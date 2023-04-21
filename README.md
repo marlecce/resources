@@ -7,4 +7,5 @@
 5. https://diataxis.fr/
 6. http://latentflip.com/loupe/
 7. https://github.com/ABZ-Aaron/CheatSheets
+8. https://github.com/softwarebloat/software-engineer-interview-prep-kit
 

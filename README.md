@@ -2,6 +2,7 @@
 
 - https://12factor.net/
 - https://www.designgurus.io/blog
+- https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/645d5161fff33a24ccce4bb1
 - https://research.swtch.com/deps
 - https://addyosmani.com/blog/software-engineering-soft-parts/
 - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/

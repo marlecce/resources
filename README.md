@@ -11,4 +11,5 @@
 - https://github.com/ABZ-Aaron/CheatSheets
 - https://github.com/softwarebloat/software-engineer-interview-prep-kit
 - https://roadmap.sh/
+- https://www.crowdstrike.com/cybersecurity-101/shift-left-security/
 

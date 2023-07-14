@@ -13,3 +13,5 @@
 - https://roadmap.sh/
 - https://www.crowdstrike.com/cybersecurity-101/shift-left-security/
 
+- https://quii.gitbook.io/learn-go-with-tests/
+

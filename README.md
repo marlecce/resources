@@ -14,5 +14,7 @@
 - https://www.crowdstrike.com/cybersecurity-101/shift-left-security/
 - https://www.techinterviewhandbook.org/
 
+- https://36-concepts-graphql.netlify.app/
+
 - https://quii.gitbook.io/learn-go-with-tests/
 

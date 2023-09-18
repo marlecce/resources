@@ -15,4 +15,5 @@
 - [Tech Interview Handbook: Free curated interview preparation materials for busy people](https://www.techinterviewhandbook.org/)
 - [36 concepts graphql developers should know](https://36-concepts-graphql.netlify.app/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Systems Performance Engineering](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/spe_fundamentals/)
 

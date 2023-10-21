@@ -17,4 +17,5 @@
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Systems Performance Engineering](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/spe_fundamentals/)
 - [Improve system design skills - The ByteByteGo Newsletter](https://blog.bytebytego.com/)
+- [Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101#readme)
 

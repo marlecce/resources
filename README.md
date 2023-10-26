@@ -17,6 +17,7 @@
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/) by Addy Osmani
 - [Software Engineer Interview Preparation Kit](https://softwarebloat.github.io/software-engineer-interview-prep-kit/)
 - [The Polymathic Engineer](https://newsletter.francofernando.com/archive)
+- [Level up Software Engineering](https://levelupsoftwareengineering.substack.com/)
 
 ## System Design
 - Discover insightful articles and expert tips at Design Gurus' blog: [https://www.designgurus.io/blog](https://www.designgurus.io/blog)

@@ -28,4 +28,4 @@
 - [Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101#readme)
 
 ## Engineering leadership & Management
-- [The Hybrid Hacker](https://hybridhacker.email/)https://hybridhacker.email/
+- [The Hybrid Hacker](https://hybridhacker.email/)

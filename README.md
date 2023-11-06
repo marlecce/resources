@@ -31,6 +31,7 @@
 - [The Hybrid Hacker](https://hybridhacker.email/)
 
 ## Security
+- The Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
 - Information (i.e. Dependency Risk Assessment, Dependency Insights, etc.) about open-source software dependencies: [https://deps.dev/](https://deps.dev/) 
 
 ## Testing

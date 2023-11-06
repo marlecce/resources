@@ -31,7 +31,7 @@
 - [The Hybrid Hacker](https://hybridhacker.email/)
 
 ## Security
-- Information (i.e. Dependency Risk Assessment, Dependency Insights, etc.) about open-source software dependencies:[https://deps.dev/](https://deps.dev/) 
+- Information (i.e. Dependency Risk Assessment, Dependency Insights, etc.) about open-source software dependencies: [https://deps.dev/](https://deps.dev/) 
 
 ## Testing
 - [9 types of API testing](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc53f283e-6834-45b6-beb9-57b10b2a22fd_1280x1664.gif?utm_source=substack&utm_medium=email)

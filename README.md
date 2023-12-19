@@ -12,6 +12,7 @@
 - [Tech Interview Handbook: Free curated interview preparation materials for busy people](https://www.techinterviewhandbook.org/)
 - [36 concepts graphql developers should know](https://36-concepts-graphql.netlify.app/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- Complex programming concepts explained with simple terms and stunning visuals: [Level Up Coding](https://blog.levelupcoding.co/)
 
 ## Software Engineering
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/) by Addy Osmani

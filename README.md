@@ -29,6 +29,7 @@
 - [System Design](https://systemdesign.one/)
 - [Improve system design skills - The ByteByteGo Newsletter](https://blog.bytebytego.com/)
 - [Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101#readme)
+- [learn system design](https://github.com/systemdesign42/system-design)
 
 ## Engineering leadership & Management
 - [The Hybrid Hacker](https://hybridhacker.email/)

@@ -21,6 +21,7 @@
 - [Software Engineer Interview Preparation Kit](https://softwarebloat.github.io/software-engineer-interview-prep-kit/)
 - [The Polymathic Engineer](https://newsletter.francofernando.com/archive)
 - [Level up Software Engineering](https://levelupsoftwareengineering.substack.com/)
+- [Free nanodegree program on Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
 
 ## System Design
 - Discover insightful articles and expert tips at Design Gurus' blog: [https://www.designgurus.io/blog](https://www.designgurus.io/blog)

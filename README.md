@@ -15,6 +15,7 @@
 - Complex programming concepts explained with simple terms and stunning visuals: [Level Up Coding](https://blog.levelupcoding.co/)
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 - Free Chat Sheets by [@zero-to-mastery](https://zerotomastery.io/cheatsheets/)
+- Free IT [ebooks](https://it-ebooks-search.info/)
 
 ## Software Engineering
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/) by Addy Osmani

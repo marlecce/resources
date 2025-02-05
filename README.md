@@ -36,6 +36,7 @@
 
 ## Engineering leadership & Management
 - [The Hybrid Hacker](https://hybridhacker.email/)
+- [Principles for modern knowledge work](https://continuouscoordination.org/)
 
 ## Security
 - The Open Worldwide Application Security Project ([OWASP](https://owasp.org/))

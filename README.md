@@ -34,6 +34,7 @@
 - [Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101#readme)
 - [Learn system design: case studies and theory](https://github.com/systemdesign42/system-design)
 - [Free System Design Book](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
+- [Kafka](https://newsletter.systemdesign.one/p/how-kafka-works#footnote-anchor-7-174189967)
 
 ## Engineering leadership & Management
 - [The Hybrid Hacker](https://hybridhacker.email/)
